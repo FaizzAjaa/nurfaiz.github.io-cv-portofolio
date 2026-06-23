@@ -1,0 +1,60 @@
+[
+    {
+        "title": "Smart Lock Door System",
+        "year": "2023",
+        "fund": "IDR 200.000 Academic Group Project",
+        "partner": "State Polytechnic of Semarang (Team Class).",
+        "role": "Programmer",
+        "description": "Designed and implemented a prototype Smart Lock Door System to enhance residential security. As the Programmer for this academic group project, I wrote the microcontroller firmware to handle real-time access control using password authentication via a numeric keypad. The code efficiently processes user inputs and triggers the electronic locking mechanisms, providing a secure foundation for keyless smart home entry.",
+        "image": "images/projectfaiz1.jpeg",
+        "link": "https://example.com/smart-lock-door"
+    },
+    {
+        "title": "Water Level Control with Double Sensor",
+        "year": "2025",
+        "fund": "IDR 150.000 Academic Group Project",
+        "partner": "State Polytechnic of Semarang (Team Class).",
+        "role": "Hardware & Software Engineer",
+        "description": "Developed an automated water level management system utilizing a dual-sensor configuration to prevent overflows. Serving as both the Hardware and Software Engineer, I integrated the primary and secondary fluid sensors with the central microcontroller and wrote the core logic. This redundancy ensures high system reliability; if the primary sensor fails, the secondary sensor acts as a fail-safe, instantly triggering the programmed output to regulate the water pumps.",
+        "image": "images/projectfaiz2.jpeg",
+        "link": "https://example.com/water-level-double-sensor"
+    },
+	{
+        "title": "Water Level Control using PID",
+        "year": "2025",
+        "fund": "IDR 500.000 Academic Group Project",
+        "partner": "State Polytechnic of Semarang (Team Class).",
+        "role": "Project Lead",
+        "description": "Engineered an advanced, precision-driven water level control system. Acting as the Software Engineer, I programmed and tuned the Proportional-Integral-Derivative (PID) controller algorithm into the system. By implementing the control logic mathematically, the software dynamically adjusts the pump flow rates in real-time, drastically minimizing steady-state error and overshoot to maintain the exact targeted water level.",
+        "image": "images/projectfaiz3.jpeg",
+        "link": "https://example.com/water-level-pid"
+    },
+    {
+        "title": "Smart Lettuce Monitor",
+        "year": "2025",
+        "fund": "IDR 300.000 Academic Group Project",
+        "partner": "State Polytechnic of Semarang (Team Class).",
+        "role": "Software Engineer & Web Designer",
+        "description": "Created an IoT-based environmental monitoring system tailored for hydroponic lettuce cultivation. As the Software Engineer and Web Designer, I developed the complete data pipeline from acquiring real-time sensor data (temperature, humidity, UV index) on the microcontroller to designing the user-friendly web interface. I built a responsive, live dashboard that visualizes this data, enabling users to monitor and optimize plant growth conditions seamlessly via the internet.",
+        "image": "images/projectfaiz4.png",
+        "link": "https://smart-lettuce-greenhouse.web.app/"
+    },
+	{
+        "title": "Smart Weight System Simulation",
+        "year": "2025",
+        "partner": "State Polytechnic of Semarang (Team Class).",
+        "role": "Concept Ideator & Team Lead",
+        "description": "Conceptualized and directed a comprehensive virtual simulation for a Smart Weight System. Serving as the Concept Ideator and Team Lead, I designed the initial system architecture and guided the team in executing the simulation using microcontroller software. The project integrates an Arduino board, a matrix keypad, and an LCD module to process simulated load cell data against user-defined weight targets, serving as a robust proof-of-concept for future hardware deployment.",
+        "image": "images/projectfaiz5.png",
+        "link": "https://wokwi.com/projects/432015400768588801"
+    },
+    {
+        "title": "Smart Weight System Simulation",
+        "year": "2024",
+        "partner": "State Polytechnic of Semarang (Team Class).",
+        "role": "Concept Ideator & Team Lead",
+        "description": "Conceptualized and directed a comprehensive virtual simulation for a Smart Weight System. Serving as the Concept Ideator and Team Lead, I designed the initial system architecture and guided the team in executing the simulation using microcontroller software. The project integrates an Arduino board, a matrix keypad, and an LCD module to process simulated load cell data against user-defined weight targets, serving as a robust proof-of-concept for future hardware deployment.",
+        "image": "images/projectfaiz5.png",
+        "link": "https://wokwi.com/projects/432015400768588801"
+    }
+]

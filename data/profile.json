@@ -1,0 +1,51 @@
+{
+    "name": "Nur Faiz Fatkhurrohman - Stundent of Politeknik Negeri Semarang",
+    "description": "A dedicated technical developer with a strong focus on programming IoT infrastructures and dynamic control systems. Skilled in microcontroller communication protocols, sensor data acquisition, and leveraging cloud platforms to build responsive, real-time monitoring environments. Adept at translating complex control engineering concepts into practical embedded code to achieve stable system automation. Eager to apply my analytical problem-solving skills to design scalable, intelligent networking systems.",
+    "profileImage": "images/profile.jpg",
+    "email": "nur.43423017@mhs.polines.ac.id",
+    "phone": "+62 (878) 029-18133",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/aminuddin-rizal128"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/faizzajaa"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/faizz_fz?igsh=MTRlYm9qYXpoNDFuZA=="
+        },
+        {
+            "platform": "Telegram",
+            "url": "https://t.me/faizajaa"
+        },
+        {
+            "platform": "Youtube",
+            "url": "https://youtube.com/@asa-shinz?si=RKEacZt-7GB3WKRE"
+        },
+        {
+            "platform": "Discord",
+            "url": "https://discordapp.com/users/1174321271446700032"
+        },
+        {
+            "platform": "Steam",
+            "url": "https://steamcommunity.com/id/OnlyShinz/"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}

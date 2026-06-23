@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Bachelor of Applied Science in Electonic Engineering",
+        "year": "2023 - present",
+        "description": "Currently maintaining a GPA of 3.61 out of 4.0. As an Applied Electronics Engineering student, my primary focus lies at the intersection of hardware logic and modern software solutions. I am deeply passionate about Internet of Things (IoT) development, embedded programming, and web design. My projects heavily involve bridging physical sensors with software systems integrating microcontrollers with structured SQL databases and designing responsive, web-based dashboards to enable real-time environmental monitoring and dynamic data visualization."
+    },
+    {
+        "university": "SMA N 14 Semarang",
+		"logo": "images/sma14.jpeg",
+        "major": "Mathematic and Science",
+        "year": "2020 - 2023",
+        "description": "Majoring in Mathematics and Science, my high school education provided a rigorous theoretical foundation in analytical thinking, mathematical logic, and physics. Unlike vocational programs, this intensive theoretical approach cultivated my deductive problem-solving skills, serving as a critical stepping stone for grasping complex programming algorithms and software architecture later in my academic career."
+    }
+]
