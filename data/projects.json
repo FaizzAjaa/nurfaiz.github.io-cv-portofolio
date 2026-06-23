@@ -47,14 +47,5 @@
         "description": "Conceptualized and directed a comprehensive virtual simulation for a Smart Weight System. Serving as the Concept Ideator and Team Lead, I designed the initial system architecture and guided the team in executing the simulation using microcontroller software. The project integrates an Arduino board, a matrix keypad, and an LCD module to process simulated load cell data against user-defined weight targets, serving as a robust proof-of-concept for future hardware deployment.",
         "image": "images/projectfaiz5.png",
         "link": "https://wokwi.com/projects/432015400768588801"
-    },
-    {
-        "title": "Smart Weight System Simulation",
-        "year": "2024",
-        "partner": "State Polytechnic of Semarang (Team Class).",
-        "role": "Concept Ideator & Team Lead",
-        "description": "Conceptualized and directed a comprehensive virtual simulation for a Smart Weight System. Serving as the Concept Ideator and Team Lead, I designed the initial system architecture and guided the team in executing the simulation using microcontroller software. The project integrates an Arduino board, a matrix keypad, and an LCD module to process simulated load cell data against user-defined weight targets, serving as a robust proof-of-concept for future hardware deployment.",
-        "image": "images/projectfaiz5.png",
-        "link": "https://wokwi.com/projects/432015400768588801"
     }
 ]
